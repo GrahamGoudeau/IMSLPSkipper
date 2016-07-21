@@ -16,8 +16,5 @@
     ],
     "browser_action": {
         "default_icon": "music.png"
-    },
-    "permissions": [
-        "activeTab"
-    ]
+    }
 }
